@@ -1,4 +1,4 @@
-# BM is a cli Bookmark tool
+# Simple Command-Line Bookmark tool
 
 ## Usage:
 
